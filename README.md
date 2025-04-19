@@ -10,5 +10,8 @@ Its my final year project related to my college attendence system. how it works 
 Now what do you require after cloning this repo...
 1) create a database (in my case 'fac').
 2) create three tables (in my case 'admin_credentials', 'students', 'attendence').
+3) in admin_credential table i have Three columns 'id', 'username', 'password'.
+4) in my students table i have Eleven columns 'id', 'name', 'department', 'roll', 'email', 'phone', 'address', 'gender', 'dob', 'pictures', 'train_data'.
+5) in my attendence table i have Five columns 'roll', 'name', 'department', 'status', 'timestamp'. 
 
 I'm a beginner so im sure that there are some tweaks need to do with this program. Jazakallah Khair
